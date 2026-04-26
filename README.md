@@ -21,13 +21,13 @@ develop video games since thats what first sparked this journey.
 - Advanced Topics with classes: polymorphism/inheritance
 
 ## 💥 Projects:
-- Tic Tac Toe:
-  Co-op game where users place their pieces on a 3x3 grid, whoever gets 3 in a row wins.
+- Tic Tac Toe:\
+  Co-op game where users place their pieces on a 3x3 grid, whoever gets 3 in a row wins.\
   [Check it out!](https://github.com/VictorGunderson/Tic-Tac-Toe)
 
-- Final Grade Calculator:
+- Final Grade Calculator:\
   Program that allows you to calculate your final grade after the final exam by entering
-  in your grade, weight of exam, and anticipated exam grade.
+  in your grade, weight of exam, and anticipated exam grade.\
   [Check it out](https://github.com/VictorGunderson/Final-Grade-Calculator-)
 
 ## 📫 How to reach me: 
